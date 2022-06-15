@@ -38,34 +38,17 @@
     margin-top: 30px;
     border-left: 130px solid transparent;
     border-right: 130px solid transparent;
-    border-top: 260px solid mediumblue;
+    border-top: 280px solid mediumblue;
     display: flex;
     justify-content: center;
     align-items: flex-end;
 }
 #message_container {
-    position: absolute;
     width: 75px;
     height: 150px;
-    margin-top: -55px;
 }
 form {
     margin: auto;
     width: 50%;
     text-align: center;
-}
-/*
-h1 {
-    margin: 0;
-    font-family: 'Righteous', cursive;
-    color: plum;
-}
-
-
-*/
-
-h1 {
-  margin: 0;
-  font-family: 'Righteous', cursive;
-  color: rgb(51, 113, 206);
 }
